@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Amata Muthugama 👩‍💻
+**First-year IT Undergraduate | Aspiring Data Scientist & AI Enthusiast**
 
-<!--
-**AmataMuthugama/AmataMuthugama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- Pursuing a BSc in Information Technology at University of Moratuwa  
+- Passionate about Data Science, AI, and Web Development  
+- Interested in building practical solutions through coding and IoT projects  
+- Dedicated to learning continuously and applying knowledge to real-world problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Amata's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmataMuthugama&show_icons=true&theme=radical)
+
+---
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmataMuthugama&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+- **Email:** [your-email@example.com]  
+- **LinkedIn:** [Your LinkedIn Link]  
+- **Portfolio:** Coming soon!  
+
+*"Strive for progress, not perfection."* – Personal Motto
+
