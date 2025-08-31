@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Contact
-- **Email:** [your-email@example.com]  
-- **LinkedIn:** [Your LinkedIn Link]  
+- **Email:** amatamuthugama@gmail.com
+- **LinkedIn:** www.linkedin.com/in/amata-muthugama  
 - **Portfolio:** Coming soon!  
 
 *"Strive for progress, not perfection."* – Personal Motto
