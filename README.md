@@ -1,4 +1,4 @@
-![Hi, I'm Amata Muthugama](https://img.shields.io/badge/Hi%2C_I'm_AmataMuthugama-blue?style=for-the-badge&logo=github)
+# Hi, I'm Amata Muthugama 👋
 **First-year IT Undergraduate | Aspiring Data Scientist & AI Enthusiast**
 
 ---
