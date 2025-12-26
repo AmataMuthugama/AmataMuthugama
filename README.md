@@ -21,12 +21,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Amata's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmataMuthugama&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmataMuthugama&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
 ## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmataMuthugama&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmataMuthugama&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
