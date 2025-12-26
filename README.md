@@ -20,16 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmataMuthugama&show_icons=true&theme=radical&cache_seconds=1800)
-
----
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmataMuthugama&layout=compact&theme=radical&cache_seconds=1800)
-
----
-
 ## 📫 Contact
 - **Email:** amatamuthugama@gmail.com
 - **LinkedIn:** www.linkedin.com/in/amata-muthugama  
